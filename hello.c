@@ -12,9 +12,9 @@ int main(int argc, char *argv[])
 	int x, y, z, w, d, h, v; /*adding int for 3 new variables*/
 	x = 10;
 	y = 20;
-	w = 13;/*the width*/
-	d = 18;/*the depth*/
-	h = 14;/*the height*/
+	w = 7;/*the width*/
+	d = 14;/*the depth*/
+	h = 11;/*the height*/
 	v = h*d*w;/*calculating the volumen multyplying the three */
 	z = x + y;
 	
